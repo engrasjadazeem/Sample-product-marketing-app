@@ -1,9 +1,11 @@
 # product-marketing-app
 
-> My divine Nuxt.js project
+This requires nodejs to be already running in your environment. Otherwise you can also run it in node docker image
+> Sample app to basically use vue with nuxtjs and try ava
 
 ## Build Setup
 
+If you want to run it locally
 ``` bash
 # install dependencies
 $ npm install
